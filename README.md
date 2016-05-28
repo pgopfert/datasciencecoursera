@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repository for Coursera Integrated Course - Data Science Specialization
+Repository for Coursera Integrated Course - Data Science Specialization - From John Hopkins University
